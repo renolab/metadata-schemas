@@ -1,0 +1,8 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/taux_couverture_solaire",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Taux de couverture solaire",
+  "type": "number",
+  "minimum": 0,
+  "maximum": 1
+}

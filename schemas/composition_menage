@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/composition_menage",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Nombre de personne composant le ménage",
+  "type": "integer",
+  "minimum": 1
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/type_vmc_simple_flux",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Type de VMC simple flux",
+  "type": "string",
+  "enum": ["type_a", "type_b"]
+}

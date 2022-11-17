@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/superficie_capteurs_solaires",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Surface des capteurs solaires",
+  "type": "number",
+  "minimum": 0
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/type_caisson_vmc_double_flux",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Type de caisson pour ventilation mécanique simple flux hygroréglable",
+  "type": "string",
+  "enum": ["basse_consommation", "standard", "basse_pression"]
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/siren",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Identifiant SIREN d'une entreprise",
+  "type": "string",
+  "pattern": "^[0-9]{9,9}$"
+}

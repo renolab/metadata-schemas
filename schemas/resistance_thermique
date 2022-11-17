@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/resistance_thermique",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Résistance thermique d'un isolant",
+  "type": "number",
+  "minimum": 0
+}

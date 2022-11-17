@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/energie_chauffage",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Energie de chauffage",
+  "type": "string",
+  "enum": ["electricite", "gaz_naturel", "fioul", "pac", "bois", "gpl", "charbon"]
+}

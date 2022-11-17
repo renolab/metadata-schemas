@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/revenu_fiscal_reference",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Revenu fiscal de référence",
+  "type": "number",
+  "minimum": 0
+}

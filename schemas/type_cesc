@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/type_cesc",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Type de chauffe-eau solaire collectif",
+  "type": "string",
+  "enum": ["cesc", "cesci"]
+}

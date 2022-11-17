@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/categorie_ressource",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Catégorie de ressource",
+  "type": "string",
+  "enum": ["tres_modeste", "modeste", "intermediaire", "superieur"]
+}

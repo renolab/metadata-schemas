@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/siret",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Identifiant SIRET d'un établissement d'une entreprise",
+  "type": "string",
+  "pattern": "^[0-9]{14,14}$"
+}

@@ -1,0 +1,7 @@
+{
+  "$id": "https://raw.githubusercontent.com/renolab/metadata-schemas/main/schemas/type_batiment",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Type de logement",
+  "type": "string",
+  "enum": ["maison_individuelle", "appartement", "immeuble_collectif"]
+}
